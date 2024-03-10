@@ -22,5 +22,17 @@
     "eslint-plugin-react-hooks": "^4.6.0",
     "eslint-plugin-react-refresh": "^0.4.5",
     "vite": "^5.1.4"
-  }
+  },
+  "description": "This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.",
+  "main": "vite.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AntoninaKobzar/torl.git"
+  },
+  "author": "antonina.kobzar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AntoninaKobzar/torl/issues"
+  },
+  "homepage": "https://github.com/AntoninaKobzar/torl#readme"
 }
